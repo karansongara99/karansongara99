@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate MERN Stack Developer and Flutter Developer</h3>
 
-- 🌱 I’m currently learning **.NET CORE, PYTHON**
+- 🌱 I’m currently learning **.NET CORE, REACT**
 
-- 💬 Ask me about **Python, MongoDB, SQL, Flutter**
+- 💬 Ask me about **MongoDB, SQL, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
