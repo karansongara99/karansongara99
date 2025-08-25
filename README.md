@@ -15,10 +15,10 @@
 
 💼 **Tech Stack**
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript, Flutter
+- **Frontend**: React.js, HTML5, CSS3, JavaScript
 - **Backend**: Node.js, Express.js, .NET Core
 - **Database**: MongoDB, MySQL, SQL Server
-- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Firebase
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman
 
 ---
 
