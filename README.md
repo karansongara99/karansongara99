@@ -1,12 +1,43 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate MERN Stack Developer and .Net Core Developer</h3>
+<h3 align="center">A passionate Full Stack Developer | MERN Stack & .NET Core Enthusiast</h3>
 
-- 🌱 I’m currently learning **.NET CORE, REACT**
+---
 
-- 💬 Ask me about **MongoDB, SQL, Flutter**
+🌟 **About Me**
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on full stack projects using **React**, **Node.js**, and **.NET Core**
+- 🌱 Currently learning: **.NET Core**, **React**
+- 💬 Ask me about: **MongoDB**, **SQL**, **Flutter**
+- 🚀 Passionate about building responsive web apps and scalable backend systems
+- 🎯 Goal: To become a versatile and efficient full stack engineer who builds real-world solutions
+
+---
+
+💼 **Tech Stack**
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Flutter
+- **Backend**: Node.js, Express.js, .NET Core
+- **Database**: MongoDB, MySQL, SQL Server
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Firebase
+
+---
+
+📫 **Connect with me**
+
 <p align="left">
-<a href="https://www.linkedin.com/in/karan-songara-985317270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetirthparmar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/karan._.songara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heytirth" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karan-songara-985317270/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/karan._.songara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+📊 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=karansongara&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansongara&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
