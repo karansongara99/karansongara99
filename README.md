@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on full stack projects using **React**, **Node.js**, and **.NET Core**
 - 🌱 Currently learning: **.NET Core**, **React**
-- 💬 Ask me about: **MongoDB**, **SQL**, **Flutter**
+- 💬 Ask me about: **MongoDB**, **SQL**
 - 🚀 Passionate about building responsive web apps and scalable backend systems
 - 🎯 Goal: To become a versatile and efficient full stack engineer who builds real-world solutions
 
