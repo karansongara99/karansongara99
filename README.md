@@ -18,7 +18,7 @@
 - **Backend**: Node.js, Express.js, .NET Core
 - **Database**: MongoDB, MySQL, SQL Server
 - **Tools & Platforms**: Git, GitHub, VS Code, Postman
-- **Live & Deployment**: Vercel,Netlify,Render,Railway
+- **Live & Deployment**: Vercel, Netlify, Render, Railway
 
 ---
 
