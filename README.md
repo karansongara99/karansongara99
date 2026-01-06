@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate Full Stack Developer | MERN Stack & .NET Core Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer | MERN Stack & .NET Core</h3>
 
 ---
 
@@ -18,6 +18,7 @@
 - **Backend**: Node.js, Express.js, .NET Core
 - **Database**: MongoDB, MySQL, SQL Server
 - **Tools & Platforms**: Git, GitHub, VS Code, Postman
+- **Live & Deployment**: Vercel,Netlify,Render,Railway
 
 ---
 
@@ -26,9 +27,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-songara-985317270/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/karan._.songara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
