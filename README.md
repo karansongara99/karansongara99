@@ -28,9 +28,7 @@
   <a href="https://www.linkedin.com/in/karan-songara-985317270/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-<p align="left">
-  <a href="https://wa.me/6353263735" target="_blank">
+   <a href="https://wa.me/6353263735" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
          alt="WhatsApp"
          height="30"
