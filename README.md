@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate Full Stack Developer | MERN Stack & .NET Core</h3>
+<h3 align="center">A passionate Full Stack Developer | MERN Stack & Laravel</h3>
 
 ---
 
