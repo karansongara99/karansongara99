@@ -48,21 +48,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Currently Working On
 
-- 📱 Full Stack Apps (MERN + Laravel)
-- 💰 Expense Tracker & Management Systems
-- 🤖 AI-integrated Applications
-- 🌍 Real-world scalable projects
+- 📱 Building Full Stack Applications using MERN & Laravel
+- 🤖 Creating AI-powered Web Applications (chatbots, smart assistants)
+- 🧠 Exploring Machine Learning & Artificial Intelligence
+Working with Python & Scikit-learn
+Learning model training, data preprocessing & prediction systems
+- 🌍 Designing real-world scalable solutions
 
 ---
 
@@ -76,21 +69,3 @@
     <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
   </a>
 </p>
-
----
-
-## 🔥 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💡 "Code is like humor. When you have to explain it, it’s bad." 😄
-
----
-
-⭐️ From [Karan Songara](https://github.com/YOUR_USERNAME)
