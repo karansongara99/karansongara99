@@ -57,15 +57,4 @@ Working with Python & Scikit-learn
 Learning model training, data preprocessing & prediction systems
 - 🌍 Designing real-world scalable solutions
 
----
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/karan-songara-985317270/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://wa.me/6353263735" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" />
-  </a>
-</p>
