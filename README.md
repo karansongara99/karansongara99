@@ -17,22 +17,19 @@ I'm a passionate AI/ML Engineer and Full Stack Developer at Qtonz Infosoft Pvt. 
 I enjoy combining Artificial Intelligence, Machine Learning, and Full Stack Development to solve real-world problems through technology.
 
 💼 Currently working at Qtonz Infosoft Pvt. Ltd.
-🤖 Exploring Artificial Intelligence and Machine Learning solutions
-💻 Developing modern web applications using the MERN Stack
-🧠 Working with Python, Scikit-learn, and Machine Learning concepts
-⚡ Building AI-powered applications and intelligent automation solutions
-🎯 Focused on writing clean, efficient, and scalable code
-🚀 Always learning and exploring emerging technologies
-🚀 Technical Skills & Tech Stack
-🤖 Artificial Intelligence & Machine Learning
-
+🤖 Exploring Artificial Intelligence and Machine Learning solutions.
+💻 Developing modern web applications using the MERN Stack.
+🧠 Working with Python, Scikit-learn, and Machine Learning concepts.
+⚡ Building AI-powered applications and intelligent automation solutions.
+🎯 Focused on writing clean, efficient, and scalable code.
+🚀 Always learning and exploring emerging technologies.
 🧠 Currently Working On
-🤖 Developing AI-powered web applications and intelligent solutions
-🧠 Exploring Machine Learning algorithms using Python and Scikit-learn
-📊 Working on data preprocessing, model training, and prediction systems
-💻 Building scalable Full Stack applications using MERN Stack
-⚙️ Developing backend services and REST APIs
-🌍 Creating real-world software solutions with AI/ML integration
+🤖 Developing AI-powered web applications and intelligent solutions.
+🧠 Exploring Machine Learning algorithms using Python and Scikit-learn.
+📊 Working on data preprocessing, model training, and prediction systems.
+💻 Building scalable Full Stack applications using the MERN Stack.
+⚙️ Developing backend services and REST APIs.
+🌍 Creating real-world software solutions with AI/ML integration.
 💡 Areas of Interest
 Artificial Intelligence & Machine Learning
 Generative AI & AI Integration
@@ -41,7 +38,6 @@ MERN Stack Development
 Intelligent Automation
 Data Science & Predictive Analytics
 Scalable Software Architecture
-
 🤝 Let's Connect
 
 <p align="center">
