@@ -26,67 +26,6 @@ I enjoy combining Artificial Intelligence, Machine Learning, and Full Stack Deve
 🚀 Technical Skills & Tech Stack
 🤖 Artificial Intelligence & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Machine Learning Fundamentals
-Data Preprocessing & Analysis
-Model Training & Evaluation
-Predictive Modeling
-Scikit-learn
-AI-Powered Application Development
-💻 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-HTML5 & CSS3
-JavaScript
-React.js
-Responsive Web Design
-Modern UI Development
-⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
-
-Node.js & Express.js
-PHP & Laravel
-RESTful API Development
-Backend Architecture
-Authentication & Authorization
-🗄️ Database Management
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-MongoDB
-MySQL
-Database Design
-Data Management
-🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-Git & GitHub
-Visual Studio Code
-Postman
-API Testing & Integration
-🌐 Deployment & Hosting
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
-
-Vercel
-Netlify
-Application Deployment
 🧠 Currently Working On
 🤖 Developing AI-powered web applications and intelligent solutions
 🧠 Exploring Machine Learning algorithms using Python and Scikit-learn
